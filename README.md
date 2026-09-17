@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Drake Boulianne`
+- **CCID:** daboulia
 
 ## References and Resources
 
